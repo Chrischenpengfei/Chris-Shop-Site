@@ -3,7 +3,7 @@ A demo e-commerce site for using Django
 
 Used library:
 
-Django  
-Wagtail 
+Django  -- 3.2
+Wagtail -- 2.14
 
 Tailwind CSS
